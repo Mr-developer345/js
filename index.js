@@ -1,15 +1,29 @@
 console.log("hello world")
 
-var samjho = "han aya"
+let x = 5, y = 10, z = 15;
+console.log(x,y,z)
 
-console.log(samjho)
+// Legal variable names
+// userName
+// age3
+// _totalamount
+// employee_id
+// MAX_value
 
-console.log( 'a' >= 'A')
+// Illegal Variable names
 
-console.log(  "A" >= 'a' )
+// 2nd Place 
+// start with digit
 
+// first-name
+// contain a hypen, which is not allowed.Illegal
 
+// total amount
+// contain a space 
 
-console.log( 'z' >= 'Z')
+// class
+// class is a reverse keyword in many language
 
-console.log( 'Z' >= 'z')
+// price$
+// contain a special character ($) not permitted in variable names
+
