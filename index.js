@@ -1,29 +1,26 @@
-console.log("hello world")
+console.log("hello World")
 
-let x = 5, y = 10, z = 15;
-console.log(x,y,z)
 
-// Legal variable names
-// userName
-// age3
-// _totalamount
-// employee_id
-// MAX_value
+var age = "i am 15 years old";
 
-// Illegal Variable names
+console.log(age)
 
-// 2nd Place 
-// start with digit
+alert(" i am 15 years old")
 
-// first-name
-// contain a hypen, which is not allowed.Illegal
+var track = "you have visited this site 14 times";
 
-// total amount
-// contain a space 
+console.log(track)
 
-// class
-// class is a reverse keyword in many language
+alert("you have visited this site 14 times")
 
-// price$
-// contain a special character ($) not permitted in variable names
+var birthYear = 1990;
+console.log(birthYear)
 
+var visitor = "hamadali";
+console.log(visitor)
+
+var product = "mobile";
+console.log(product)
+
+var quantity = "5";
+console.log(quantity)
